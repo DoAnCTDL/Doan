@@ -1,0 +1,61 @@
+D:\Trung Kiên\CodeWindowForm\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
+D:\Trung Kiên\CodeWindowForm\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe
+D:\Trung Kiên\CodeWindowForm\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
+D:\Trung Kiên\CodeWindowForm\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.csprojResolveAssemblyReference.cache
+D:\Trung Kiên\CodeWindowForm\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.Properties.Resources.resources
+D:\Trung Kiên\CodeWindowForm\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.GenerateResource.Cache
+D:\Trung Kiên\CodeWindowForm\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.CoreCompileInputs.cache
+D:\Trung Kiên\CodeWindowForm\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.exe
+D:\Trung Kiên\CodeWindowForm\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.pdb
+D:\Trung Kiên\CodeWindowForm\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.MainScreen.resources
+D:\Trung Kiên\CodeWindowForm\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.LockScreen.resources
+D:\Trung Kiên\CodeWindowForm\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.FormAdd.resources
+D:\Trung Kiên\CodeWindowForm\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.FormDelete.resources
+D:\Trung Kiên\CodeWindowForm\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.FormEdit.resources
+F:\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
+F:\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe
+F:\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
+F:\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.csprojResolveAssemblyReference.cache
+F:\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.FormAdd.resources
+F:\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.FormDelete.resources
+F:\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.FormEdit.resources
+F:\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.MainScreen.resources
+F:\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.LockScreen.resources
+F:\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.Properties.Resources.resources
+F:\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.GenerateResource.Cache
+F:\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.exe
+F:\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.pdb
+D:\Trung Kiên\Chương trình đại học\Cấu trúc dữ liệu và Giải thuật\DictionaryDemoFix\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
+D:\Trung Kiên\Chương trình đại học\Cấu trúc dữ liệu và Giải thuật\DictionaryDemoFix\DictionaryDemo\bin\Debug\DictionaryDemo.exe
+D:\Trung Kiên\Chương trình đại học\Cấu trúc dữ liệu và Giải thuật\DictionaryDemoFix\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
+D:\Trung Kiên\Chương trình đại học\Cấu trúc dữ liệu và Giải thuật\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.csprojResolveAssemblyReference.cache
+D:\Trung Kiên\Chương trình đại học\Cấu trúc dữ liệu và Giải thuật\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.FormAdd.resources
+D:\Trung Kiên\Chương trình đại học\Cấu trúc dữ liệu và Giải thuật\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.FormDelete.resources
+D:\Trung Kiên\Chương trình đại học\Cấu trúc dữ liệu và Giải thuật\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.FormEdit.resources
+D:\Trung Kiên\Chương trình đại học\Cấu trúc dữ liệu và Giải thuật\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.MainScreen.resources
+D:\Trung Kiên\Chương trình đại học\Cấu trúc dữ liệu và Giải thuật\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.LockScreen.resources
+D:\Trung Kiên\Chương trình đại học\Cấu trúc dữ liệu và Giải thuật\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.Properties.Resources.resources
+D:\Trung Kiên\Chương trình đại học\Cấu trúc dữ liệu và Giải thuật\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.GenerateResource.Cache
+D:\Trung Kiên\Chương trình đại học\Cấu trúc dữ liệu và Giải thuật\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.CoreCompileInputs.cache
+D:\Trung Kiên\Chương trình đại học\Cấu trúc dữ liệu và Giải thuật\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.exe
+D:\Trung Kiên\Chương trình đại học\Cấu trúc dữ liệu và Giải thuật\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.pdb
+D:\Trung Kiên\Chương trình đại học\Cấu trúc dữ liệu và Giải thuật\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.Option.resources
+D:\Trung Kiên\Chương trình đại học\Cấu trúc dữ liệu và Giải thuật\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.Information.resources
+D:\Trung Kiên\Chương trình đại học\Cấu trúc dữ liệu và Giải thuật\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.History.resources
+F:\DictionaryDemoFix\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
+F:\DictionaryDemoFix\DictionaryDemo\bin\Debug\DictionaryDemo.exe
+F:\DictionaryDemoFix\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
+F:\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.csprojResolveAssemblyReference.cache
+F:\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.FormAdd.resources
+F:\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.FormDelete.resources
+F:\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.FormEdit.resources
+F:\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.History.resources
+F:\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.Information.resources
+F:\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.MainScreen.resources
+F:\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.LockScreen.resources
+F:\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.Option.resources
+F:\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.Properties.Resources.resources
+F:\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.GenerateResource.Cache
+F:\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.exe
+F:\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.pdb
+F:\DictionaryDemoFix\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.CoreCompileInputs.cache

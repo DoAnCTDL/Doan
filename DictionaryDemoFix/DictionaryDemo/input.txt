@@ -1,0 +1,23 @@
+﻿apple@trái táo@loại trái cây màu đỏ 
+bag@ba lô@dùng để đựng đồ vật
+cat@con mèo@thú nhỏ thuộc nhóm ăn thịt, leo trèo rất giỏi, nuôi trong nhà để bắt chuột hoặc để làm cảnh
+day@ngày@khoảng thời gian Trái Đất tự xoay xung quanh nó đúng một vòng, bằng 24 giờ
+egg@trứng@khối hình bầu dục hoặc hình cầu do một số động vật cái đẻ ra, sau có thể nở thành con
+fish@con cá@động vật có xương sống ở nước, thở bằng mang, bơi bằng vây
+get@lấy@đưa cái của mình hoặc cái đã sẵn có ở đâu đó để làm việc gì
+hide@ẩn@giấu mình ở nơi kín đáo hoặc nơi có vật che chở
+kill@giết@làm cho bị chết, một cách có chủ ý
+lock@khóa@ngăn chặn không cho xâm phạm
+mom@mẹ@người phụ nữ có con, trong quan hệ với con (cũng dùng để xưng gọi)
+miss@quên@không còn nhớ, không còn lưu giữ trong trí nhớ
+nice@tốt@có phẩm chất, chất lượng cao hơn mức bình thường
+option@tùy chọn@xem xét, so sánh để lấy ra cái hợp yêu cầu trong nhiều cái cùng loại
+parent@phụ huynh@cha mẹ hoặc người thay mặt, đại diện cho gia đình học sinh trong quan hệ với nhà trường
+queen@nữ hoàng@người phụ nữ làm vua
+run@chạy@(người, động vật) di chuyển thân thể bằng những bước nhanh, mạnh và liên tiếp
+sad@buồn@hay đg có tâm trạng không thích thú của người đang gặp việc đau thương hoặc đang có điều không được như ý
+tea@trà@búp hoặc lá cây chè đã sao, đã chế biến, để pha nước uống
+umbrella@cây dù@dùng để che nắng che mưa
+word@công việc@việc phải bỏ công sức ra để làm
+year@năm@khoảng thời gian Trái Đất di chuyển hết một vòng quanh Mặt Trời, bằng 365 ngày 5 giờ 48 phút 40 giây
+zoo@sở thú@vườn công cộng có trồng nhiều loài cây cỏ và nuôi nhiều loài chim muông để làm nơi tham quan và nghiên cứu.
