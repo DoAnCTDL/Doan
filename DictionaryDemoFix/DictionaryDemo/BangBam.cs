@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,26 +10,43 @@ namespace DictionaryDemo
     public class BangBam
     {
         public DSLK[] Table;
-
+        public static int DemDong()
+        {
+            FileStream file = new FileStream(
+                @"F:\DictionaryDemoFix\DictionaryDemo\input.txt",
+                FileMode.OpenOrCreate, FileAccess.ReadWrite);
+            StreamReader sr = new StreamReader(file);
+            string s;
+            int n = 0;
+            do
+            {
+                n++;
+                s = sr.ReadLine();
+            }
+            while (s != null);
+            sr.Close();
+            file.Close();
+            return n;
+        }
+        int dong = DemDong();
         public BangBam()
         {
-            Table = new DSLK[26];
-            for (int i = 0; i < 26; i++)
+            Table = new DSLK[dong];
+            for (int i = 0; i < dong; i++)
             {
                 Table[i] = new DSLK();
             }
         }
 
-        public int Bam(char c)
+        public int Bam(string S)
         {
-            if (c >= 'A' && c <= 'Z')
-                c = (char)((int)c + 32);
-            return (int)c % 97;
-        }
-
-        public char GetFirstChar(string s)
-        {
-            return s[0];
+            int v = 1;
+            int n = S.Length;
+            for(int i = 0;i<n;i++)
+            {
+                v = v * (S[i] - 96) % dong;
+            }
+            return v;
         }
 
         //public void Duyet()
@@ -42,8 +60,7 @@ namespace DictionaryDemo
 
         public void Add(Word wd)
         {
-            char c = GetFirstChar(wd.Name);
-            int bam = Bam(c);
+            int bam = Bam(wd.Name);
             bool check = Search_Check(wd.Name);
             try
             {
@@ -61,8 +78,7 @@ namespace DictionaryDemo
 
         public bool Search_Check(string s)
         {
-            char c = GetFirstChar(s);
-            int bam = Bam(c);
+            int bam = Bam(s);
             Node p = new Node();
             p = Table[bam].Head;
             while (p != null)
@@ -76,8 +92,7 @@ namespace DictionaryDemo
 
         public Node Search_Lookup(string s)
         {
-            char c = GetFirstChar(s);
-            int bam = Bam(c);
+            int bam = Bam(s);
             bool check = Search_Check(s);
             try
             {
@@ -99,8 +114,7 @@ namespace DictionaryDemo
 
         public void RemoveWord(string s)
         {
-            char c = GetFirstChar(s);
-            int bam = Bam(c);
+            int bam = Bam(s);
             if (s == Table[bam].Head.word.Name)
                 Table[bam].RemoveHead();
             else
@@ -126,8 +140,7 @@ namespace DictionaryDemo
 
         public void EditWord(string name, string meaning, string explication)
         {
-            char c = GetFirstChar(name);
-            int bam = Bam(c);
+            int bam = Bam(name);
             bool check = Search_Check(name);
             try
             {
