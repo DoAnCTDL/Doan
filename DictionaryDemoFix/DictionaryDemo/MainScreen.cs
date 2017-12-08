@@ -127,9 +127,8 @@ namespace DictionaryDemo
 
         public static void AddComboBox(BangBam BB, ComboBox comboBox1)
         {
-            int dong = BangBam.DemDong();
             Node p = new Node();
-            for (int i = 0; i <dong; i++)
+            for (int i = 0; i < 26; i++)
             {
                 p = BB.Table[i].Head;
                 while (p != null)
@@ -139,6 +138,7 @@ namespace DictionaryDemo
                 }
             }
         }
+
         private SpeakText VietNamese;
         private SpeakText English;
         public bool isLoading1 = true;
